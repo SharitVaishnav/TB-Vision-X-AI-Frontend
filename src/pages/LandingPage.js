@@ -73,7 +73,7 @@ function LandingPage() {
                       Explore our open-source implementation and contribute to the project.
                     </div>
                     <a 
-                      href="https://github.com/SharitVaishnav/TB-Vision-X-AI.git"
+                      href="https://github.com/SharitVaishnav/TB-Vision-X-AI-Backend"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="inline-flex items-center gap-2 text-blue-600 font-semibold hover:text-blue-800 transition-colors duration-200 hover:translate-x-1 transform transition-transform"
