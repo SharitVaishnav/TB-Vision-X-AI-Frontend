@@ -54,7 +54,7 @@ function AnalysisPage() {
     formData.append('model', 'densenet');
 
     try {
-      const response = await fetch('https://tb-vision-x-ai-backend.onrender.com/predict', {
+      const response = await fetch('https://tb-vision-v4-366723717716.europe-west1.run.app/predict', {
         method: 'POST',
         body: formData,
       });
